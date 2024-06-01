@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burton - Главные шлюхи</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #1d2836;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .container {
+            margin: 20px auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 1200px;
+        }
+        .whore-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px;
+            overflow: hidden;
+            width: 300px;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        .whore-card:hover {
+            transform: translateY(-5px);
+        }
+        .whore-card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 100%);
+            z-index: 2;
+        }
+        .whore-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+        .whore-card:hover img {
+            transform: scale(1.1);
+        }
+        .whore-card-content {
+            padding: 20px;
+            position: relative;
+            z-index: 3;
+        }
+        .whore-card h3 {
+            margin-top: 0;
+            font-size: 20px;
+            color: #333;
+        }
+        .whore-card p {
+            margin-bottom: 20px;
+            font-size: 16px;
+            color: #666;
+        }
+        .whore-card a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .whore-card a:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Burton - Главные шлюхи</h1>
+    </header>
+    <div class="container">
+        <div class="whore-card">
+            <img src="https://i.imgur.com/5wTEtOv_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=1" alt="Шлюха">
+            <div class="whore-card-content">
+                <h3>Шлюха 1</h3>
+                <p>Описание шлюхи 1</p>
+                <a href="https://i.imgur.com/5wTEtOv_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=1">Подробнее</a>
+            </div>
+        </div>
+        <div class="whore-card">
+            <img src="https://i.imgur.com/FpavFVt_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=2" alt="Шлюха">
+            <div class="whore-card-content">
+                <h3>Шлюха 2</h3>
+                <p>Описание шлюхи 2</p>
+                <a href="https://i.imgur.com/FpavFVt_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=2">Подробнее</a>
+            </div>
+        </div>
+        <div class="whore-card">
+            <img src="https://i.imgur.com/QjQUSLc_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=1" alt="Шлюха">
+            <div class="whore-card-content">
+                <h3>Шлюха 3</h3>
+                <p>Описание шлюхи 3</p>
+                <a href="https://i.imgur.com/QjQUSLc_d.jpg?maxwidth=520&shape=thumb&fidelity=high&v=1">Подробнее</a>
+            </div>
+        </div>
+        <!-- Add more whores here -->
+    </div>
+</body>
+<style>
+    body {
+        background-image: url("https://kartinki.pics/uploads/posts/2021-04/thumbs/1617571374_49-p-prosto-chernii-fon-53.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: repeat;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: #00bfff;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Мой сайт</h1>
+        <nav>
+            <a href="https://imgur.com/a/oXg9kCm">Создатель сайта Robert Hooker</a>
+        </nav>
+    </header>
+</body>
+</html>
+</html>
